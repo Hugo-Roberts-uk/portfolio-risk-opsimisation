@@ -83,7 +83,11 @@ The results should therefore be interpreted as a demonstration of portfolio cons
 - The risk-free rate is based on an assumed value.
 - The Monte Carlo simulation uses randomly generated portfolio weights.
 - The model does not account for all real-world portfolio constraints.
+## Monte Carlo Simulation
 
+The simulation generates 5,000 possible portfolio allocations and evaluates each according to annual return, volatility and Sharpe ratio.
+
+![Monte Carlo Portfolio Simulation](monte_carlo_simulation.png)
 ## Author
 
 Physics undergraduate student at the University of Edinburgh.
